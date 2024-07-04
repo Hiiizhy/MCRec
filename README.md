@@ -31,8 +31,6 @@ $ python main.py -- dataset Dunnhumby_sample
 
 ## Running the code
 
-create folder `./src/all_results/Dunnhumby`
-
 ```python
 $ python main.py --dataset Dunnhumby --lr 0.0001 --l2 0.01 --Lh 9 --Lv 7
 $ python main.py --dataset Instacart --lr 0.0001 --l2 0.0001 --Lh 6 --Lv 2
